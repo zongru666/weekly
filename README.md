@@ -3,6 +3,14 @@
 本项目是[玄离199](https://space.bilibili.com/67079745)每周科技补全视频中提到的软件和开源项目总结，方便观众收藏和搜索。文档内容来自视频文稿，所以部分内容直接读起来会比较奇怪，建议配合视频观看。
 
 
+### 2024年12月
+
+- 第30期：[2024年12月21日-2024年12月28日](https://github.com/xuanli199/weekly/blob/main/docs/30.md)
+
+- 第29期：[2024年12月14日-2024年12月21日](https://github.com/xuanli199/weekly/blob/main/docs/29.md)
+
+- 第28期：[2024年12月7日-2024年12月14日](https://github.com/xuanli199/weekly/blob/main/docs/28.md)
+
 - 第27期：[2024年11月30日-2024年12月7日](https://github.com/xuanli199/weekly/blob/main/docs/27.md)
 
 
