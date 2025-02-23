@@ -3,6 +3,30 @@
 本项目是[玄离199](https://space.bilibili.com/67079745)每周科技补全视频中提到的软件和开源项目总结，方便观众收藏和搜索。文档内容来自视频文稿，所以部分内容直接读起来会比较奇怪，建议配合视频观看。
 
 
+
+
+### 2025年2月
+
+- 第38期：[2024年2月15日-2024年2月22日](https://github.com/xuanli199/weekly/blob/main/docs/38.md)
+
+- 第37期：[2025年2月8日-2025年2月15日](https://github.com/xuanli199/weekly/blob/main/docs/37.md)
+
+- 第36期：[2025年2月1日-2025年2月8日](https://github.com/xuanli199/weekly/blob/main/docs/36.md)
+
+- 第35期：[2025年1月25日-2025年2月1日](https://github.com/xuanli199/weekly/blob/main/docs/35.md)
+
+
+### 2025年1月
+
+- 第34期：[2025年1月18日-2025年1月25日](https://github.com/xuanli199/weekly/blob/main/docs/34.md)
+
+- 第33期：[2025年1月11日-2025年1月18日](https://github.com/xuanli199/weekly/blob/main/docs/33.md)
+
+- 第32期：[2025年1月4日-2024年1月11日](https://github.com/xuanli199/weekly/blob/main/docs/32.md)
+
+- 第31期：[2024年12月28日-2025年1月4日](https://github.com/xuanli199/weekly/blob/main/docs/31.md)
+
+
 ### 2024年12月
 
 - 第30期：[2024年12月21日-2024年12月28日](https://github.com/xuanli199/weekly/blob/main/docs/30.md)
